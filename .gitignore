@@ -1,0 +1,151 @@
+# Creado por el complemento de soporte .ignore (hsz.mobi)
+# ## Plantilla de Python
+# Archivos compilados por bytes / optimizados / DLL
+__pycache__ /
+* .py [ bacalao ]
+* $py.clase
+
+# Extensiones C
+* .así
+
+# Distribución / embalaje
+.Pitón
+env /
+construir /
+desarrollar-huevos /
+dist /
+descargas /
+huevos /
+.huevos /
+libre /
+lib64 /
+partes /
+dist /
+var /
+* .huevo-info /
+.instalado.cfg
+* .huevo
+
+# PyInstaller
+#   Por lo general, estos archivos están escritos por un script de python a partir de una plantilla
+#   antes de que PyInstaller construya el exe, para inyectarle fecha/otra información.
+* .manifiesto
+* .spec
+
+# Registros del instalador
+pip-log.txt
+pip-eliminar-este-directorio.txt
+
+# Pruebas unitarias / informes de cobertura
+htmlcov /
+.tox /
+.cobertura
+.cobertura. *
+.cache
+nosetests.xml
+cobertura.xml
+* , cubierta
+.hipótesis /
+
+# Traducciones
+* .mo
+* .olla
+
+# Cosas de Django:
+* .registro
+configuración_local.py
+
+# Cosas del matraz:
+instancia /
+.webassets-caché
+
+# Cosas chatarra:
+.scrapy
+
+# documentación de la esfinge
+documentos / _build /
+
+# PyBuilder
+objetivo /
+
+#Cuaderno IPython
+.ipynb_puntos de control
+
+#pyenv _
+.python-versión
+
+# archivo de programa de ritmo de apio
+celerybeat-horario
+
+#dotenv _
+.env
+
+# entorno virtual
+venv /
+ENV /
+
+# Configuración del proyecto Spyder
+proyecto .spyder
+
+# Configuración del proyecto de cuerda
+.ropeproject
+# ## plantilla VirtualEnv
+# entorno virtual
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Pitón
+[ Bb ] en
+[ Ii ] ncluir
+[ Ll ] ib
+[ Ll ] ib64
+[ Ll ] local
+[ Ss ] guiones
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+# ## Plantilla JetBrains
+# Cubre los IDE de JetBrains: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio y Webstorm
+# Referencia: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Cosas específicas del usuario:
+.idea / espacio de trabajo.xml
+.idea / tareas.xml
+.idea / diccionarios
+.idea / vcs.xml
+.idea / jsLibraryMappings.xml
+
+# Archivos confidenciales o de alta rotación:
+.idea / fuentes de datos.ids
+.idea / fuentes de datos.xml
+.idea / fuentes de datos.local.xml
+.idea / sqlDataSources.xml
+.idea / dinámico.xml
+.idea / uiDesigner.xml
+
+#Gradle :
+.idea / gradle.xml
+.idea / bibliotecas
+
+# Complemento Mongo Explorer:
+.idea / mongoSettings.xml
+
+.idea /
+
+# # Formato de proyecto basado en archivos:
+* .iws
+
+# # Archivos específicos del complemento:
+
+#IntelliJ _
+/ fuera /
+
+# Complemento mpeltonen/sbt-idea
+.idea_modules /
+
+# Complemento JIRA
+atlassian-ide-plugin.xml
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.propiedades
+crashlytics-build.propiedades
+tela.propiedades
